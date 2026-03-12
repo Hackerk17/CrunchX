@@ -54,7 +54,7 @@ pip install requests
 Run CrunchX
 
 ```bash
-python3 crunch.py
+python3 Crunchx.py
 ```
 
 # 🖥 Menu
@@ -180,7 +180,7 @@ Example
 ```
 Hash: 5f4dcc3b5aa765d61d8327deb882cf99
 Type: md5
-Wordlist: rockyou.txt
+Wordlist: /usr/share/wordlists/rockyou.txt
 ```
 
 Output
@@ -220,7 +220,7 @@ Generate wordlist from terminal.
 Example
 
 ```bash
-python3 crunch.py -p password -c 1000 -o wordlist.txt
+python3 Crunchx.py -p password -c 1000 -o wordlist.txt
 ```
 
 Options
