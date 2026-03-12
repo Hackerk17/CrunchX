@@ -30,7 +30,7 @@ Inspired by tools like Hashcat and John the Ripper.
 Clone repository
 
 ```bash
-git clone https://github.com/YOURUSERNAME/CrunchX.git
+git clone https://github.com/Hackerk17/CrunchX.git
 ```
 
 Enter directory
